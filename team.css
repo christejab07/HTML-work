@@ -1,0 +1,63 @@
+.heading{
+    color: darksalmon;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    list-style-type: none;
+    float: right;
+    align-items: center;
+    padding-right: 15px;
+}
+.team-body{
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: #c8c9cb;
+    height: 40px;
+}
+.team{
+    display: inline-block;
+}
+.profile{
+    display: inline-table;
+    font-display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+#new-im{
+
+    align-items: center;
+    border-radius: 20px 20px;
+}
+#par{
+border: 20px 0 0 0;
+
+}
+button{
+    height: 30px;
+    width: 150px;
+    background-color: cornflowerblue;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+    color: #ffe4c4;
+}
+#teams{
+    background-color: azure;
+    border-radius: 20px;
+    box-shadow: 9px 9px lightslategray;
+    height: 400px;
+    width: 250px;
+    display: inline-table;
+    margin: 0 10% 0 0;
+    padding: 10px;
+}
+#teams img{
+    border-radius: 20px;
+}
+.qute{
+    padding-left: 90%;
+    font-family: 'Times New Roman', Times, serif;
+}

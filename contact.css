@@ -1,0 +1,44 @@
+.heading{
+    color: darksalmon;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    list-style-type: none;
+    float: right;
+    align-items: center;
+    padding-right: 15px;
+}
+header{
+    background-color: #c8c9cb;
+    height: 40px;
+}
+#icons{
+    text-decoration: none;
+    cursor: pointer;
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#contact{
+    padding-top: 30px;
+    text-align: center;
+    text-decoration: underline solid #605f5f;
+}
+.contact-us{
+    background-image: url(girl-civil-engineer.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+}
+#all{
+    border-radius: 20px;
+    
+}
+.quote{
+    text-align: right;
+    text-shadow: 1px 1px #605f5f;
+    color: blue;
+    padding: 0 20% 0 0;
+}

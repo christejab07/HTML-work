@@ -1,0 +1,51 @@
+#nest{
+    background-color: white;
+    /* margin: 10% 25% 40px 25%; */
+    height: 340px;
+    width: 450px;
+    padding-top: 40px;
+    border-radius: 1em;
+}
+.login-body{
+    background-color: rgb(218, 224, 224);
+}
+#empass{
+    padding-top: 30px;
+    height: 12px;
+    width: 250px;
+    font-size: large;
+    border-color: black;
+    color: #000;
+    border-radius: 0.5em;
+}
+#sub{
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    color: blanchedalmond;
+    background-color: black;
+}
+.login-head{
+    color: burlywood;
+    padding-bottom: 10px;
+    text-shadow: 3px 2px rgb(134, 134, 134);
+}
+#forgot{
+    color: blueviolet;
+    text-align: right;
+    margin: 0 0 50px 30%;
+}
+.heading{
+    color: darksalmon;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    float: right;
+    align-items: center;
+    padding-right: 15px;
+}
+header{
+    background-color: #c8c9cb;
+    height: 40px;
+}

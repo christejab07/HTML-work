@@ -1,0 +1,20 @@
+@keyframes example {
+    0%{background-color: grey;}
+    20%{background-color: green;}
+    40%{background-color: crimson;}
+    60%{background-color: cadetblue;}
+    80%{background-color: chocolate;}
+    100%{background-color: brown;}
+    /* from{margin-top: 0px; background-color: cadetblue;}
+    to{margin-top: 20%; background-color: darkgreen;} */
+}
+svg{
+    background-color: yellow;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-play-state: running;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 3;
+    animation-direction: reverse; 
+    animation-fill-mode: backwards;
+}
